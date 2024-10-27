@@ -1,1 +1,1 @@
-# posix.nvim
+# xonsh.nvim
