@@ -1,1 +1,1 @@
-# nvim_posix
+# posix.nvim
